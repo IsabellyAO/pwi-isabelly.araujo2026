@@ -1,3 +1,3 @@
 # pwi-isabelly.araujo2026
 Repositório de Aulas Programação Isa
-A Isabelly Araujo Olieveira é linda 
+A Isabelly Araujo Oliveira é linda 
